@@ -1,0 +1,9 @@
+@media screen and (max-width:500px) {
+  .section-one{
+    margin-bottom: 50px;
+  }
+  
+  body {
+    text-align: center;
+  }
+}
